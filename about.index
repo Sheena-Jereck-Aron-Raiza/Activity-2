@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="About our Web Systems and Technology team.">
+    <title>About Us - Web Systems and Technology</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>About Our Team</h1>
+
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="schedule.html">Schedule</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+
+        <section>
+            <h2>Meet Our Team</h2>
+
+            <p>
+                We are a team of students working together to complete
+                our Web Systems and Technology project. Each member has
+                an assigned role and contributes to the development of
+                our website.
+            </p>
+        </section>
+
+        <section>
+            <h2>Team Members</h2>
+
+            <h3>Aron De Lara</h3>
+            <p>
+                Team Leader / Member 1 - Responsible for organizing the
+                team and helping manage the development of the website.
+            </p>
+
+            <h3>Raiza Yvonne Tanaliga</h3>
+            <p>
+                Member 2 - Responsible for the schedule page and assigned
+                web development tasks.
+            </p>
+
+            <h3>Sheena Jane Insigne</h3>
+            <p>
+                Member 3 - Responsible for the projects page and contributing
+                to the team's website development.
+            </p>
+
+            <h3>Jereck John Torreliza</h3>
+            <p>
+                Member 4 - Responsible for the contact page and supporting
+                the team's website development.
+            </p>
+        </section>
+
+        <section>
+            <h2>Our Goal</h2>
+
+            <p>
+                Our goal is to create a simple, organized, and functional
+                website while learning the fundamentals of HTML5 and
+                teamwork in web development.
+            </p>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Web Systems and Technology Team</p>
+        <p>Created by Aron De Lara and Team</p>
+    </footer>
+
+</body>
+</html>
